@@ -6,8 +6,9 @@ have 3 methods
 # Deleting files around 
 حوصله اش نیست عکس بگیرم خودتان تست کنید 
 
-<br>
-# Creating files and folders with random chars
+
+# creating files and folders with random chars
+
 ![image](https://github.com/user-attachments/assets/37f22ac7-e769-4178-bff1-220b9000cac2)
 <br>
 
